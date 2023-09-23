@@ -1,0 +1,222 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#logo1{
+    width: 250px; margin-top: 30px; margin-left: 75px; margin-right: 75px;margin-bottom: 15px;
+}
+.social{
+    width: 40px;
+    height: 40px;
+}
+#Gmail{
+    margin-left: 75px;margin-right: 60px;
+}
+#Linkedin{
+    margin-right: 75px;margin-left: 60px;
+}
+#Github{
+    background-color: white;
+}
+#downloadresume{
+    background-color: #ffc107;
+    font-size: 25px;
+    margin: 80px;
+    cursor: pointer;
+    
+}
+#downloadresume:hover{
+    background-color: tomato;
+}
+#leftsided{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 400px;height: 790px; background-color: rgb(38, 38, 38);
+}
+#rightsided{
+    float: right;
+    background-color: whitesmoke;
+    width: 1136px;
+}
+.top3{
+    float: right;
+    padding: 10px;
+    padding-left: 40px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+#portfolio{
+    padding: 10px;
+    padding-left: 40px;
+    font-size: 20px ;
+    float: left;
+    text-decoration: none;
+    color: black;
+}
+#lio{
+    color: red;
+    display: inline-block;
+}
+#top3{
+    text-decoration: none;
+    display: inline-block;
+}
+#main{
+    font-size: 30px;
+}
+#top33{
+    padding-left: 600px;
+}
+#main{
+    border-top: 2px solid rgb(143, 111, 93);
+    width: 970px;
+    margin: 40px;
+    padding-left: 50px;
+    padding-top: 25px;
+}
+#name{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 90px;
+}
+#occupation{
+margin-left: 650px;
+margin-bottom: 90px;
+}
+#about5{
+    border-bottom: 3px solid #ffc107 ;
+    font-size: 50px;
+}
+
+#cen{
+    padding-left: 180px;
+    padding-right: 150px;
+}
+.aboutme{
+    font-size: 25px;
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
+#resume{
+    border-bottom: 3px solid #ffc107 ;
+    font-size: 50px;
+}
+#certifications{
+    font-size: 35px;
+    margin-top: 50px;
+    text-decoration: underline;
+    text-decoration-color: rgb(35, 222, 104);
+    margin-bottom: 50px;
+}
+#oracle{
+    font-size: 30px;
+}
+#oracle1{
+    font-size: 25px;
+}
+#dateoforacle{
+    margin-top: 50px;
+    font-size: 15px;
+}
+#education{
+    font-size: 35px;
+    margin-top: 50px;
+    text-decoration: underline;
+    text-decoration-color: rgb(35, 222, 104);
+    margin-bottom: 50px;
+}
+#inter{
+    font-size: 30px;
+}
+#inter1{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+#intermediate{
+    margin-top: 50px;
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+#btech{
+    font-size: 30px;
+    margin-top: 50px;
+}
+#btech1{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+#graduate{
+    margin-top: 50px;
+    font-size: 15px;
+}
+#skills{
+    font-size: 35px;
+    margin-top: 50px;
+    text-decoration: underline;
+    text-decoration-color: rgb(35, 222, 104);
+    margin-bottom: 50px;
+}
+#skills1{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+#techskills{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+#skilllist{
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+#techskilllist{
+    font-size: 25px;
+}
+#hobby{
+    font-size: 35px;
+    margin-top: 50px;
+    text-decoration: underline;
+    text-decoration-color: rgb(35, 222, 104);
+    margin-bottom : 30px;
+}
+.hobby1{
+    font-size: 25px;
+   
+}
+#contact{
+    margin-top: 100px;
+    border-bottom: 3px solid #ffc107 ;
+    font-size: 50px;
+}
+.contact1{
+    font-size: 15px;
+}
+#contact2{
+    margin-bottom : 90px;
+}
+#footly{
+    text-align: center;
+}
+#oracle22{
+text-decoration: none;
+}
+#top33:hover{
+     text-decoration: underline;
+     text-decoration-color: green;
+     color: green;
+}
+#top32:hover{
+    text-decoration: underline;
+    text-decoration-color: green;
+    color: green;
+}
+#top31:hover{
+    text-decoration: underline;
+    text-decoration-color: green;
+    color: green;
+}
+#downloadresume1{
+    text-decoration: none;
+    color: black;
+}
